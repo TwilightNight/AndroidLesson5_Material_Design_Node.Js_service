@@ -1,2 +1,8 @@
 var server = require("./server");
-server.start();
+var router = require("./router");
+var requestHandlers = require("./requestHandlers");
+
+var handle = {}
+handle["/"] = requestHandlers.start;
+handle["/img"]=requestHandlers.readImage;
+server.start(router.route, handle);

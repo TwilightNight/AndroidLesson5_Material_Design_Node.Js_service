@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Sonia",
+    "age": 4,
+    "photo": "cat_q1.jpg"
+  },
+  {
+    "name": "Terri",
+    "age": 2,
+    "photo": "cat_q2.jpg"
+  },
+  {
+    "name": "Ocean",
+    "age": 6,
+    "photo": "cat_q3.jpg"
+  },
+  {
+    "name": "Riley",
+    "age": 7,
+    "photo": "cat_q4.jpg"
+  },
+  {
+    "name": "Moxie",
+    "age": 5,
+    "photo": "cat_q5.jpg"
+  },
+  {
+    "name": "Zora",
+    "age": 9,
+    "photo": "cat01.jpg"
+  },
+  {
+    "name": "Valery",
+    "age": 7,
+    "photo": "cat02.jpg"
+  },
+  {
+    "name": "Neve",
+    "age": 12,
+    "photo": "cat03.png"
+  },
+  {
+    "name": "Liana",
+    "age": 3,
+    "photo": "cat04.jpg"
+  },
+  {
+    "name": "Jasmin",
+    "age": 1,
+    "photo": "cat05.jpg"
+  },
+  {
+    "name": "Lia",
+    "age": 13,
+    "photo": "cat08.jpg"
+  },
+  {
+    "name": "Carlie",
+    "age": 8,
+    "photo": "cat10.jpg"
+  },
+  {
+    "name": "Becky",
+    "age": 6,
+    "photo": "cat11.jpg"
+  },
+  {
+    "name": "Aura",
+    "age": 11,
+    "photo": "cat12.jpg"
+  },
+  {
+    "name": "Dayle",
+    "age": 9,
+    "photo": "cat13.jpg"
+  },
+  {
+    "name": "Cleo",
+    "age": 4,
+    "photo": "cat14.jpg"
+  },
+  {
+    "name": "Indie",
+    "age": 3,
+    "photo": "cat15.jpg"
+  },
+  {
+    "name": "Frida",
+    "age": 7,
+    "photo": "cat16.jpg"
+  },
+  {
+    "name": "Gilda",
+    "age": 4,
+    "photo": "cat17.jpg"
+  },
+  {
+    "name": "Shannon",
+    "age": 4,
+    "photo": "cat18.png"
+  },
+  {
+    "name": "Ora",
+    "age": 4,
+    "photo": "cat19.jpg"
+  }
+]
